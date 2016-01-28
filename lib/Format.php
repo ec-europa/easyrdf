@@ -589,7 +589,7 @@ Format::register(
     'http://www.w3.org/TR/n-triples/',
     array(
         'application/n-triples' => 1.0,
-        'text/plain' => 0.9,
+        'text/plain' => 0.7,
         'text/ntriples' => 0.9,
         'application/ntriples' => 0.9,
         'application/x-ntriples' => 0.9
